@@ -1,32 +1,10 @@
 # 👋 Hi there, I'm Junaid!
 
-🎯 **Data Science | Machine Learning | LLMs | AI Solutions**
+I’m a Data Science and Machine Learning enthusiast with a strong focus on building real-world AI solutions across domains like finance, healthcare, natural language processing (NLP), and computer vision. I specialize in developing ML/DL models for credit risk, sentiment analysis, and visual intelligence using tools like transformers, LangChain, and fine-tuned LLMs.
 
-I'm a BCA student and an enthusiastic practitioner in Machine Learning and Data Science, focused on building impactful, real-world solutions. My core strengths include:
+With hands-on experience in fastAPI, DSA in Python, and frameworks like Streamlit, I’ve built and deployed several end-to-end applications—from an interactive VQA tool using ViLT to a car damage detector and a colorization autoencoder. I’m also skilled in A/B testing, EDA, and deploying ML models at scale.
 
-- 🔍 Predictive Modeling & A/B Testing
-- 🤖 Deep Learning, Transformers & Fine-Tuned LLMs (e.g., DeepSeek, ViLT, LLaMA)
-- 🧠 NLP with LangChain & LangGraph, Sentiment Analysis, Visual Question Answering
-- 🧪 FastAPI, Streamlit, Python DSA
-- 💾 EDA & Risk/Fraud Modeling in Finance
-
----
-
-## 🔬 Featured Projects
-
-- 💳 **Credit Card Launch & Risk Analysis** – End-to-end A/B testing & predictive modeling
-- 🧠 **ML Healthcare Cost Prediction** – Regression & model interpretability
-- 🧮 **Loan Approval & Credit Risk Model** – Live credit assessment demo
-- 💬 **NLP & Sentiment Tools** – BERT-based & ML-based analysis tools
-- 🧾 **Interactive Sentiment Tool** – NLP-driven emotion classification
-- 🖼️ **Visual QA Tool (ViLT)** – Answers questions based on uploaded images
-- 🚗 **Car Damage Detector** – Transfer learning for visual damage classification
-- 🎨 **Autoencoder Colorizer** – Converts grayscale images to colored using DL
-- 🔍 **Image Similarity Engine** – Search engine powered by embedding comparison
-- ❤️ **Heart Disease Prediction** – ML-powered diagnostic helper
-
----
-
+Currently pursuing a BCA, I’m eager to collaborate on impactful AI projects and contribute to innovative, data-driven solutions
 ## 🌐 Connect with Me
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/junaid-%E3%85%A4-4b234a308/)
