@@ -4,7 +4,6 @@ I’m a Data Science and Machine Learning enthusiast with a strong focus on buil
 
 With hands-on experience in fastAPI, DSA in Python, and frameworks like Streamlit, I’ve built and deployed several end-to-end applications—from an interactive VQA tool using ViLT to a car damage detector and a colorization autoencoder. I’m also skilled in A/B testing, EDA, and deploying ML models at scale.
 
-Currently pursuing a BCA, I’m eager to collaborate on impactful AI projects and contribute to innovative, data-driven solutions
 ## 🌐 Connect with Me
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/junaid-%E3%85%A4-4b234a308/)
