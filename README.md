@@ -2,7 +2,7 @@
 
 I’m a Data Science and Machine Learning enthusiast with a strong focus on building real-world AI solutions across domains like finance, healthcare, natural language processing (NLP), and computer vision. I specialize in developing ML/DL models for credit risk, sentiment analysis, and visual intelligence using tools like transformers, LangChain, and fine-tuned LLMs.
 
-With hands-on experience in fastAPI, DSA in Python, and frameworks like Streamlit, I’ve built and deployed several end-to-end applications—from an interactive VQA tool using ViLT to a car damage detector and a colorization autoencoder. I’m also skilled in A/B testing, EDA, and deploying ML models at scale.
+With hands-on experience in fastAPI and frameworks like Streamlit, I’ve built and deployed several end-to-end applications—from an interactive VQA tool using ViLT to a car damage detector and a colorization autoencoder. I’m also skilled in A/B testing, EDA, and deploying ML models at scale.
 
 ## 🌐 Connect with Me
 
