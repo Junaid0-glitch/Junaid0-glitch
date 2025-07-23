@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">I’m a Data Science and Machine Learning enthusiast with a strong focus on building real-world AI solutions across domains like finance, healthcare, natural language processing (NLP), and computer vision. I specialize in developing ML/DL models for credit risk, sentiment analysis, and visual intelligence using tools like transformers, LangChain, and fine-tuned LLMs.<br><br>With hands-on experience in fastAPI and frameworks like Streamlit, I’ve built and deployed several end-to-end applications—from an interactive VQA tool using ViLT to a car damage detector and a colorization autoencoder. I’m also skilled in A/B testing, EDA, and deploying ML models at scale.</p>
+<p align="left">I’m an AI and Machine Learning engineer with a strong focus on building practical, real-world applications across domains like NLP, computer vision, finance, and healthcare. I specialize in leveraging transformers, LangChain, and fine-tuned LLMs to develop intelligent systems for tasks like sentiment analysis, credit risk modeling, and generative language tasks.
+
+With hands-on experience in Streamlit, FastAPI, and deployment pipelines, I’ve built several end-to-end apps—from a YouTube chatbot using LangChain and Gemini to an interactive VQA tool powered by ViLT. My projects also include fine-tuning LLaMA and DeepSeek on custom data, building a car damage classifier, and developing colorization autoencoders. I’m also proficient in A/B testing, EDA, and deploying scalable ML/AI models.</p>
 
 ###
 
