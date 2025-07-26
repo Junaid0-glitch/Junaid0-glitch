@@ -62,7 +62,7 @@
   <a href="https://www.linkedin.com/in/junaid-%E3%85%A4-4b234a308/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/_im_Junaid" target="_blank">
+  <a href="https://x.com/am_juddy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="58" height="40" alt="twitter logo"  />
   </a>
   <a href="junaid76170@gmail.com" target="_blank">
