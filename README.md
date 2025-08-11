@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">I’m an AI and Machine Learning engineer with a strong focus on building practical, real-world applications across domains like NLP, computer vision, finance, and healthcare. I specialize in leveraging transformers, LangChain, and fine-tuned LLMs to develop intelligent systems for tasks like sentiment analysis, credit risk modeling, and generative language tasks.<br><br>With hands-on experience in Streamlit, FastAPI, and deployment pipelines, I’ve built several end-to-end apps—from a YouTube chatbot using LangChain and Gemini to an interactive VQA tool powered by ViLT. My projects also include fine-tuning LLaMA and DeepSeek on custom data, building a car damage classifier, and developing colorization autoencoders. I’m also proficient in A/B testing, EDA, and deploying scalable ML/AI models.</h3>
+<h3 align="left">I am an AI and Machine Learning engineer with extensive expertise in developing practical, real-world applications across diverse domains including natural language processing, computer vision, finance, and healthcare. I specialize in leveraging advanced techniques such as transformers, LangChain, and fine-tuned large language models to design intelligent systems for complex tasks like sentiment analysis, credit risk modeling, and generative language processing.<br><br>My technical proficiency encompasses building robust deployment pipelines and scalable architectures using frameworks like Streamlit and FastAPI. I possess a strong foundation in sequence modeling techniques, including convolutional neural networks and LSTM architectures, enabling me to create predictive and generative language models. Additionally, I am skilled in exploratory data analysis, A/B testing, and the end-to-end deployment of machine learning and AI models to deliver impactful solutions in production environments.</h3>
 
 ###
 
@@ -35,6 +35,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
@@ -62,7 +64,7 @@
   <a href="https://www.linkedin.com/in/junaid-%E3%85%A4-4b234a308/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/am_juddy" target="_blank">
+  <a href="https://x.com/_im_Junaid" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="58" height="40" alt="twitter logo"  />
   </a>
   <a href="junaid76170@gmail.com" target="_blank">
